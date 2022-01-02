@@ -1,7 +1,7 @@
 @import "~@csstools/normalize.css";
 
 html {
-  background: url(/public/snow-image.webp) no-repeat center center fixed;
+  background: url(/src/assets/snow-image.webp) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;

@@ -1,6 +1,6 @@
 import "./App.css";
 import CountryGenerator from "./components/CountryGenerator/CountryGenerator";
-// import Button from "./components/Button/Button";
+import Sound from "./components/Sound/Sound";
 
 function App() {
   return (
@@ -8,7 +8,7 @@ function App() {
       <header></header>
       <main>
         <CountryGenerator />
-        {/* <Button text={"Sound on"} /> */}
+        <Sound />
       </main>
     </div>
   );

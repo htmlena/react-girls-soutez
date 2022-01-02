@@ -29,7 +29,11 @@ const CountryGenerator = () => {
     <div className="generator-container">
       <div className="generator-heading">Happy New Year!</div>
       <div className="generator-teaser">{randomCountry}</div>
-      <Button text={"Surprise me"} onClick={handleClick} />
+      <Button
+        text={"Surprise me"}
+        onClick={handleClick}
+        className={"main-button"}
+      />
     </div>
   );
 };
