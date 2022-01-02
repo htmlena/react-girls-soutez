@@ -10,8 +10,8 @@ const CountryGenerator = () => {
   useEffect(() => {
     fetch("https://restcountries.com/v2/all")
       .then((res) => res.json())
-      .then((result) => {
-        setCountries(countryName(result));
+      .then((json) => {
+        setCountries(countryName(json));
       });
   }, []);
 
