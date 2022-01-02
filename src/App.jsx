@@ -8,7 +8,7 @@ function App() {
       <header></header>
       <main>
         <CountryGenerator />
-        <Button text={"Sound on"} />
+        {/* <Button text={"Sound on"} /> */}
       </main>
     </div>
   );

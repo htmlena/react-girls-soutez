@@ -1,0 +1,26 @@
+.generator-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.generator-heading {
+  font-family: "Rock 3D", cursive;
+  font-weight: 800;
+  font-size: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+.generator-teaser {
+  font-family: "Amatic SC", cursive;
+  font-size: 2rem;
+  margin-bottom: 1.5rem;
+}
+
+@media (min-width: 860px) {
+  .generator-heading {
+    font-size: 3rem;
+  }
+}
