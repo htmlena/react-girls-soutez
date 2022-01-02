@@ -1,9 +1,9 @@
 # Novoroční přání :fireworks:
 
-Rozhodla jsem se vytvořit minimalistický digitální pohled.
+Rozhodla jsem se vytvořit minimalistický **digitální pohled**.
 
 Přeji nám všem v novém roce ať skončí COVID chaos a ať můžeme zase bezpečně cestovat.
-Tento jednoduchý pohled vám pomůže pokud se nemůžete rozhodnout kam vyrazit v novém roce :world_map:
+Tento jednoduchý pohled vám pomůže pokud se nemůžete rozhodnout **kam vyrazit v novém roce** :world_map:
 
 Projekt byl vytvořen pro novoroční soutěž od [Reactgirls](https://reactgirls.com/).
 
@@ -11,7 +11,7 @@ Projekt byl vytvořen pro novoroční soutěž od [Reactgirls](https://reactgirl
 
 - [Create React App](https://github.com/facebook/create-react-app)
 - [REST Countries API](https://restcountries.com/)
-- Foto z vlastních archivů :eyes: (pořízeno v Jizerkách pomocí Zenit ET)
+- Foto z vlastních archivů :eyes: (pořízeno v Jizerkách pomocí Zenit 12sd)
 
 ### Jak projekt spustit lokálně
 
