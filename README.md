@@ -4,6 +4,7 @@ Rozhodla jsem se vytvořit minimalistický [digitální pohled](where-to-travel-
 
 Přeji nám všem v novém roce ať skončí COVID chaos a ať můžeme zase bezpečně cestovat.
 Tento jednoduchý pohled vám pomůže pokud se nemůžete rozhodnout **kam vyrazit v novém roce** :world_map:
+
 Pohled také pomůže navodit příjemnou zimní atmosféru :snowflake:
 
 Projekt byl vytvořen pro novoroční soutěž od [Reactgirls](https://reactgirls.com/).
@@ -13,7 +14,6 @@ Projekt byl vytvořen pro novoroční soutěž od [Reactgirls](https://reactgirl
 - [Create React App](https://github.com/facebook/create-react-app)
 - [REST Countries API](https://restcountries.com/)
 - [useSound - React Hook for Sound Effects ](https://www.npmjs.com/package/use-sound)
-
 - Hudba z [freesound](https://freesound.org/people/Setuniman/sounds/170858/)
 - Foto z vlastních archivů :eyes: (pořízeno v Jizerkách pomocí Zenit 12sd)
 

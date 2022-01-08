@@ -4,7 +4,7 @@ import useSound from "use-sound";
 // import Button from "../Button/Button";
 import music from "../../assets/music_happy_again.mp3";
 
-const Sound = ({}) => {
+const Sound = () => {
   const [play, { stop }] = useSound(music);
   const [isPlaying, setIsPlaying] = useState(false);
 
