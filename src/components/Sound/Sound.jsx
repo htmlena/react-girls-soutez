@@ -1,8 +1,8 @@
 import { useState } from "react";
 import "./style.css";
 import useSound from "use-sound";
-import Button from "../Button/Button";
-import music from "../../assets/vintage-music-box.mp3";
+// import Button from "../Button/Button";
+import music from "../../assets/music_happy_again.mp3";
 
 const Sound = ({}) => {
   const [play, { stop }] = useSound(music);
@@ -20,7 +20,7 @@ const Sound = ({}) => {
 
   return (
     <div>
-      <Button text={"Sound on"}></Button>
+      {/* <Button text={"Sound on"}></Button> */}
       <div
         className="material-icons-container"
         onClick={isPlaying ? handleStop : handlePlay}

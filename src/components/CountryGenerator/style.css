@@ -10,17 +10,39 @@
   font-family: "Rock 3D", cursive;
   font-weight: 800;
   font-size: 2rem;
+  margin-bottom: 1.6rem;
+}
+
+.generator-intro {
+  font-family: "Gloria Hallelujah", cursive;
+  font-size: 1rem;
   margin-bottom: 1.5rem;
 }
 
 .generator-teaser {
   font-family: "Amatic SC", cursive;
-  font-size: 2rem;
-  margin-bottom: 1.5rem;
+  font-size: 1.4rem;
+  margin-bottom: 1.2rem;
+}
+
+@media (min-width: 540px) {
+  .generator-intro {
+    width: 70%;
+  }
 }
 
 @media (min-width: 860px) {
   .generator-heading {
     font-size: 3rem;
+    margin-bottom: 1.8rem;
+  }
+
+  .generator-intro {
+    width: 40%;
+    font-size: 1.2rem;
+  }
+
+  .generator-teaser {
+    font-size: 2rem;
   }
 }

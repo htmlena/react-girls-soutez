@@ -1,6 +1,7 @@
 import { useState, useEffect } from "react";
 import "./style.css";
 import Button from "../Button/Button";
+import Sound from "../Sound/Sound";
 
 const CountryGenerator = () => {
   const [countries, setCountries] = useState([]);
@@ -27,7 +28,12 @@ const CountryGenerator = () => {
 
   return (
     <div className="generator-container">
+      <Sound />
       <div className="generator-heading">Happy New Year!</div>
+      <div className="generator-intro">
+        Miss travelling? Let's pick a country for you to discover in the new
+        year (or when this craziness ends)
+      </div>
       <div className="generator-teaser">{randomCountry}</div>
       <Button
         text={"Surprise me"}
