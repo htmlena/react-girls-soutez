@@ -6,9 +6,9 @@
   font-family: "Material Icons";
   font-weight: normal;
   font-style: normal;
-  font-size: 24px;
-  display: inline-block;
+  font-size: 36px;
   line-height: 1;
+  display: inline-block;
   text-transform: none;
   letter-spacing: normal;
   word-wrap: normal;
@@ -26,4 +26,8 @@
 
   /* Support for IE. */
   font-feature-settings: "liga";
+}
+
+.material-icons.md-36 {
+  font-size: 36px;
 }

@@ -14,7 +14,8 @@ Projekt byl vytvořen pro novoroční soutěž od [Reactgirls](https://reactgirl
 - [Create React App](https://github.com/facebook/create-react-app)
 - [REST Countries API](https://restcountries.com/)
 - [useSound - React Hook for Sound Effects ](https://www.npmjs.com/package/use-sound)
-- Hudba z [freesound](https://freesound.org/people/Setuniman/sounds/170858/)
+- [fireworks](https://www.npmjs.com/package/fireworks)
+- Hudbu z [freesound](https://freesound.org/people/Setuniman/sounds/170858/)
 - Foto z vlastních archivů :eyes: (pořízeno v Jizerkách pomocí Zenit 12sd)
 
 ### Jak projekt spustit lokálně

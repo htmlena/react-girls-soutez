@@ -20,12 +20,13 @@ const Sound = () => {
 
   return (
     <div>
-      {/* <Button text={"Sound on"}></Button> */}
       <div
         className="material-icons-container"
         onClick={isPlaying ? handleStop : handlePlay}
       >
-        <span class="material-icons-outlined">music_note</span>
+        <span class="material-icons-outlined md-36">
+          {isPlaying ? "volume_up" : "volume_mute"}
+        </span>
       </div>
     </div>
   );
