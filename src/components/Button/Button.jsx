@@ -9,7 +9,7 @@ const Button = ({ text, onClick, className }) => {
     setSnowflakes(true);
     setTimeout(() => {
       clearSnow();
-    }, 1000 / 3);
+    }, 1000 / 2);
   };
 
   const clearSnow = () => {
