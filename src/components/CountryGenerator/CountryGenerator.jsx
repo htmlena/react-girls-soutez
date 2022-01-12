@@ -32,7 +32,7 @@ const CountryGenerator = () => {
       <div className="generator-heading">Happy New Year!</div>
       <div className="generator-intro">
         Missing travelling? Let's pick a country for you to discover in the new
-        year (or when this craziness ends)
+        year (or when COVID craziness ends)
       </div>
       <div className="generator-teaser">{randomCountry}</div>
       <Button
