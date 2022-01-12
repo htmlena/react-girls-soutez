@@ -15,6 +15,10 @@ body {
   animation-fill-mode: forwards;
 }
 
+.App {
+  text-align: center;
+}
+
 @keyframes fadeInAnimation {
   0% {
     opacity: 0;

@@ -1,12 +1,24 @@
 .material-icons-container {
   cursor: pointer;
+  background-color: #e5f8e5;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 50%;
+  width: 30px;
+  height: 30px;
+  border: 1px solid black;
+}
+
+.material-icons-container:hover {
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 
 .material-icons {
   font-family: "Material Icons";
   font-weight: normal;
   font-style: normal;
-  font-size: 36px;
+  font-size: 24px;
   line-height: 1;
   display: inline-block;
   text-transform: none;
@@ -18,6 +30,7 @@
 
   /* Support for all WebKit browsers. */
   -webkit-font-smoothing: antialiased;
+
   /* Support for Safari and Chrome. */
   text-rendering: optimizeLegibility;
 
@@ -28,6 +41,8 @@
   font-feature-settings: "liga";
 }
 
-.material-icons.md-36 {
-  font-size: 36px;
+@media (min-width: 540px) {
+  .material-icons-container {
+    margin-bottom: 20px;
+  }
 }

@@ -20,14 +20,15 @@
 }
 
 .generator-teaser {
-  font-family: "Gloria Hallelujah", cursive;
+  font-family: "Amatic SC", cursive;
   font-size: 1.4rem;
   margin-bottom: 1.2rem;
+  color: #2e4053;
 }
 
 @media (min-width: 540px) {
   .generator-intro {
-    width: 70%;
+    width: 65%;
   }
 }
 

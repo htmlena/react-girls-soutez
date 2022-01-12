@@ -24,7 +24,7 @@ const Sound = () => {
         className="material-icons-container"
         onClick={isPlaying ? handleStop : handlePlay}
       >
-        <span class="material-icons-outlined md-36">
+        <span className="material-icons-outlined md-36">
           {isPlaying ? "volume_up" : "volume_mute"}
         </span>
       </div>

@@ -7,7 +7,7 @@ Tento jednoduchý pohled vám pomůže pokud se nemůžete rozhodnout **kam vyra
 
 Pohled také pomůže navodit příjemnou zimní atmosféru :snowflake:
 
-Projekt byl vytvořen pro novoroční soutěž od [Reactgirls](https://reactgirls.com/).
+Projekt byl vytvořen pro novoroční soutěž od [Reactgirls](https://reactgirls.com/). Jestli se mi podaří vyhrát mentoring, chtěla bych se zaměřit na rozšíření svého portfolia a také naučit se zajímavé tranzice a animace, tvořené například pomocí [react-spring](https://react-spring.io/).
 
 ## V projektu jsem použila
 
