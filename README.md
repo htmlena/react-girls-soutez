@@ -1,6 +1,6 @@
 # Novoroční přání :fireworks:
 
-Rozhodla jsem se vytvořit minimalistický [digitální pohled](where-to-travel-this-year.netlify.app).
+Rozhodla jsem se vytvořit minimalistický [digitální pohled](where-this-year.netlify.app).
 
 Přeji nám všem v novém roce ať skončí COVID chaos a ať můžeme zase bezpečně cestovat.
 Tento jednoduchý pohled vám pomůže pokud se nemůžete rozhodnout **kam vyrazit v novém roce** :world_map:
